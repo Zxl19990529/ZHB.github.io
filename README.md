@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的主页 <h1>
 
-You can use the [editor on GitHub](https://github.com/Zxl19990529/ZHB.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 教育背景<h2>
+- 2018.7.23\~2018.8.3 参加麻省理工学院STEM访学项目，并获得推荐信
+- 2017-now Majoring in Electronic Information of Engineering in Ocean University of China.
+- 2017.6.7 Graduated from Daqing Shiyan High School.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zxl19990529/ZHB.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 工作技能 <h3>
+- 熟悉C和C++，Python，具有良好编程能力和编程习惯
+- 熟悉DCP和51单片机开发
+- 熟悉WPS，office等办公软件
+- 会用LaTeX排版软件
+- 熟悉Linux操作系统
+- 对深度学习有一定了解，能够搭建CNN网络
+### 荣誉证书 <h4>
+- 被评为“中国海洋大学优秀团员”
+- 两次获得新生辩论赛“最佳辩手”
+- 获得“中国海洋大学O-Lab创享会新闻部优秀干事”
+- 获得“中国海洋大学海洋航行器大赛暨校内选拔赛两栖组第二名”
+- 英语四、六级证书
+- 此处待填充……
+### 工作经历<h5>
+- 此处待填充
+### 兴趣爱好<h6>
+编程、看电影、美食（海鲜）、柔道
+### 自我评价 <h7>
+- 开朗阳光,擅长与人交流,参与团队合作
+- 具有良好**英语**交流能力
+- 做事认真负责，有规划，不拖延
+### 联系方式<h8>
+手机： 17860713361
+QQ ：907634987
+E-mail: zhangxinliang_mit@163.com
